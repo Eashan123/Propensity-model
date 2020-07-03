@@ -7,5 +7,3 @@ To increase predictive Accuracy of Binary Classification model and handling Clas
 
 
 Propensity modelling / Customer Targeting / Direct Marketing.
-
-Algorithm: Kmeans , Smote , Logistic Regression
